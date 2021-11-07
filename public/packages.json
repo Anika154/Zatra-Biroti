@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Sunset view of beautiful lakeside resident",
+        "price": "$1,900/ per person",
+        "description": "Jumeirah Lake Towers (JLT) is a mixed-use district, loved for its lush green surroundings. Inspired by archipelagos and desert oasis in the emirate, this area has three artificial lakes and landscaped gardens.",
+        "img": "https://i.ibb.co/BPqWvhS/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Experience the natural beauty of Island",
+        "price": "$1,230/per person",
+        "description": "We offer exclusive Group/Corporate/Official/Family tour packages depend on your budget & flexible time. We are always set the highest standards for safety, accuracy of information, timeliness and customer service.",
+        "img": "https://i.ibb.co/Hd9DZZP/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Vacation to the water city of Portugal",
+        "price": "$2,00/per person",
+        "description": "Well-loved by families and party groups, this golden-sand beach is renowned for its water sports and nightlife options. Facilities include a shower, toilet, restaurants and loungers to rent, plus there’s a lifeguard on duty in high season.",
+        "img": "https://i.ibb.co/DDqnSqC/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Trekking to the mountain camp site",
+        "price": "$1,800/per person",
+        "description": "Climb one of Colorado’s most approachable 14ers and then plan to stay in a tent, RV, or yurt at Ridgway State Park.",
+        "img": "https://i.ibb.co/61m1Mqs/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Besseggen Ridge",
+        "price": "$2,000/per person",
+        "description": "The hike over Besseggen takes six to eight hours including breaks and is recommended for experienced hikers. The ridge is both windy and steep, so if this is the first time you are hiking in the mountains, it might be a good idea to choose an easier alternative.",
+        "img": "https://i.ibb.co/HVmnjyF/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Marina Bay Sand City",
+        "price": "$3,000/per person",
+        "description": "Across from Marina Bay, this high-end hotel within a sprawling entertainment complex is 1 km from greenhouses at Gardens by the Bay and 18 km from Singapore Changi Airport.Polished rooms feature Wi-Fi, flat-screens and minibars. ",
+        "img": "https://i.ibb.co/61m1Mqs/4.jpg"
+    }
+]
